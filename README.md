@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF416C&height=200&section=header&text=Navraj%20Kumar%20Yadav&fontSize=42&fontColor=ffffff" />
 </p>
----
 
 <h1 align="center">Hi 👋, I'm Navraj Kumar Yadav</h1>
 
