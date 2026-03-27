@@ -1,3 +1,10 @@
+## 🎨 Banner
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Navraj%20Kumar%20Yadav&fontSize=30&fontColor=ffffff" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Navraj Kumar Yadav</h1>
 
 <p align="center">
@@ -6,9 +13,13 @@
 
 ---
 
-## 🎨 Banner
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Navraj%20Kumar%20Yadav&fontSize=30&fontColor=ffffff" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/SAP-ABAP-blue?style=for-the-badge&logo=sap"/>
+  <img src="https://img.shields.io/badge/ABAP_on_HANA-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CDS-Views-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SAP-Fiori-green?style=for-the-badge"/>
 </p>
 
 ---
@@ -39,15 +50,6 @@
 ✔️ Email Alerts for Low Stock  
 
 ---
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/SAP-ABAP-blue?style=for-the-badge&logo=sap"/>
-  <img src="https://img.shields.io/badge/ABAP_on_HANA-grey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CDS-Views-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SAP-Fiori-green?style=for-the-badge"/>
-</p>
 
 ---
 
