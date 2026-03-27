@@ -1,21 +1,8 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF416C&height=200&section=header&text=Navraj%20Kumar%20Yadav&fontSize=42&fontColor=ffffff" />
 </p>
-
-
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/SAP-ABAP-blue?style=for-the-badge&logo=sap"/>
-  <img src="https://img.shields.io/badge/ABAP_on_HANA-grey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CDS-Views-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SAP-Fiori-green?style=for-the-badge"/>
-</p>
-
----
 <h1 align="center">Hi 👋, I'm Navraj Kumar Yadav</h1>
 
 <p align="center">
@@ -23,6 +10,8 @@
 </p>
 
 
+
+---
 
 ## 🧠 Recruiter Summary
 🎯 SAP ABAP Developer (Fresher) with hands-on experience in **ALV Reports, Data Processing, and Database Design**  
@@ -51,6 +40,17 @@
 
 ---
 
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/SAP-ABAP-blue?style=for-the-badge&logo=sap"/>
+  <img src="https://img.shields.io/badge/ABAP_on_HANA-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CDS-Views-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SAP-Fiori-green?style=for-the-badge"/>
+</p>
+
+---
+
 ## 📌 Other Projects
 - 📊 SAP Reports (Data Processing & Interactive Reports)  
 - 🧩 ER Diagram Designs (DBMS Projects)  
@@ -62,8 +62,6 @@
   <img src="https://via.placeholder.com/400x200.png?text=ALV+Dashboard" />
   <img src="https://via.placeholder.com/400x200.png?text=Stock+Report" />
 </p>
-
-👉 Replace with your real project screenshots
 
 ---
 
@@ -91,11 +89,11 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/navraj-kumar-yadav-960600236/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/navraj-kumar-yadav-960600236/">
+    <img src="https://img.shields.io/badge/LinkedIn-Navraj%20Yadav-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
