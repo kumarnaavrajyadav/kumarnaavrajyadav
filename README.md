@@ -4,13 +4,6 @@
 </p>
 
 
-
-<h1 align="center">Hi 👋, I'm Navraj Kumar Yadav</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=SAP+ABAP+Developer;ABAP+on+HANA+Learner;Actively+seeking+Internship;Future+SAP+Consultant;Backend+Enthusiast&center=true&width=550&height=45">
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -23,6 +16,13 @@
 </p>
 
 ---
+<h1 align="center">Hi 👋, I'm Navraj Kumar Yadav</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=SAP+ABAP+Developer;ABAP+on+HANA+Learner;Actively+seeking+Internship;Future+SAP+Consultant;Backend+Enthusiast&center=true&width=550&height=45">
+</p>
+
+
 
 ## 🧠 Recruiter Summary
 🎯 SAP ABAP Developer (Fresher) with hands-on experience in **ALV Reports, Data Processing, and Database Design**  
