@@ -1,4 +1,4 @@
-````html
+html
 <!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=NAVRAJ%20KUMAR%20YADAV&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SAP%20ABAP%20DEVELOPER%20%7C%20FUTURE%20SAP%20CONSULTANT&descAlignY=60&descSize=15" width="100%" />
