@@ -1,22 +1,15 @@
 
-<!-- =========================================
-     NAVRAJ KUMAR YADAV - GITHUB PROFILE
-     Anime / Naruto Inspired Developer Portfolio
-========================================== -->
+<!-- NAVRAJ KUMAR YADAV | ANIME DEVELOPER PORTFOLIO -->
 
 <div align="center">
 
-<img src="./assets/anime-banner.gif" width="100%" alt="Anime Developer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b18,50:581c25,100:f59e0b&height=230&section=header&text=NAVRAJ%20KUMAR%20YADAV&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SAP%20ABAP%20%7C%20Frontend%20Developer&descAlignY=58&descSize=17" width="100%"/>
 
-<h1>⚡ NAVRAJ KUMAR YADAV ⚡</h1>
-
-<h3>🖥️ SAP ABAP Developer | Frontend Developer | Tech Enthusiast</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Welcome+to+my+Shinobi+World!;Building+Digital+Experiences;Learning+New+Technologies;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Welcome+to+my+Shinobi+World!;I+am+a+Developer+and+Tech+Enthusiast;Building+Digital+Experiences;Turning+Ideas+Into+Reality" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=orange&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=kumarnaavrajyadav&label=PROFILE+VIEWS&color=orange&style=for-the-badge"/>
 
 </div>
 
@@ -26,19 +19,21 @@
 
 <table>
 <tr>
-<td width="45%">
-<img src="./assets/anime-character.png" width="100%" alt="Anime Character"/>
+<td width="38%" align="center">
+
+<img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Navraj&backgroundColor=b6e3f4,c0aede,d1d4f9" width="220" alt="Developer Avatar"/>
+
 </td>
-<td width="55%">
+<td width="62%">
 
 ### Believe it — then build it!
 
 - 👋 Hi, I'm **Navraj Kumar Yadav**.
 - 🎓 Computer Engineering Graduate.
-- 💻 Interested in SAP ABAP and Frontend Development.
-- 🚀 Building practical projects and exploring new technologies.
-- 🌱 Learning modern web development and enterprise solutions.
-- 🎯 My goal is to become a skilled Software Developer.
+- 💻 SAP ABAP & Frontend Developer.
+- 🚀 Interested in Software Development.
+- 🌱 Exploring AI, Data Analytics and Web Technologies.
+- 🎯 Building projects and learning new technologies.
 
 > "Great things are built one line of code at a time."
 
@@ -83,13 +78,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kumarnaavrajyadav&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarnaavrajyadav&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="85%" src="https://streak-stats.demolab.com?user=kumarnaavrajyadav&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -106,35 +101,25 @@
 
 <tr>
 <td><b>🎵 Music Recommendation System</b></td>
-<td>
-Face Expression Based Music Recommendation System using Deep Learning.
-<br/><br/>
-Detects facial emotions and recommends music accordingly.
-</td>
-<td>Python, Flask, TensorFlow, OpenCV, Deep Learning</td>
+<td>Face Expression Based Music Recommendation System using Deep Learning.</td>
+<td>Python, Flask, TensorFlow, OpenCV</td>
 </tr>
 
 <tr>
-<td><b>📦 Inventory Management System</b></td>
-<td>
-An SAP ABAP-based inventory management solution to monitor stock levels, generate reports and manage inventory operations.
-</td>
-<td>SAP ABAP, SAP S/4HANA, SQL</td>
+<td><b>📦 Inventory Management</b></td>
+<td>SAP ABAP-based inventory management solution.</td>
+<td>SAP ABAP, S/4HANA, SQL</td>
 </tr>
 
 <tr>
 <td><b>♻️ Smart Waste Segregation</b></td>
-<td>
-Garbage classification system using Convolutional Neural Networks.
-</td>
+<td>Garbage classification using Convolutional Neural Networks.</td>
 <td>Python, CNN, TensorFlow, Keras</td>
 </tr>
 
 <tr>
 <td><b>💻 Personal Portfolio</b></td>
-<td>
-A responsive developer portfolio showcasing projects, skills and achievements.
-</td>
+<td>Responsive portfolio website showcasing development skills.</td>
 <td>HTML, CSS, JavaScript, React</td>
 </tr>
 
@@ -158,11 +143,11 @@ A responsive developer portfolio showcasing projects, skills and achievements.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kumarnaavrajyadav&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarnaavrajyadav&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -172,23 +157,19 @@ A responsive developer portfolio showcasing projects, skills and achievements.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/" >
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/kumarnaavrajyadav">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <br/><br/>
 
 ### 🍥 THANKS FOR VISITING MY SHINOBI WORLD!
 
-<img src="./assets/anime-footer.gif" width="70%" alt="Anime Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b18,50:581c25,100:f59e0b&height=140&section=footer&animation=twinkling" width="100%"/>
 
 **"I don't give up. That's my ninja way!"**
 
