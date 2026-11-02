@@ -1,243 +1,195 @@
-html
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=NAVRAJ%20KUMAR%20YADAV&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SAP%20ABAP%20DEVELOPER%20%7C%20FUTURE%20SAP%20CONSULTANT&descAlignY=60&descSize=15" width="100%" />
-</p>
 
-<!-- DIGITAL ID CARD -->
-<h2 align="center">🪪 DIGITAL DEVELOPER ID CARD</h2>
+<!-- =========================================
+     NAVRAJ KUMAR YADAV - GITHUB PROFILE
+     Anime / Naruto Inspired Developer Portfolio
+========================================== -->
 
-<table align="center" width="100%">
+<div align="center">
+
+<img src="./assets/anime-banner.gif" width="100%" alt="Anime Developer Banner"/>
+
+<h1>⚡ NAVRAJ KUMAR YADAV ⚡</h1>
+
+<h3>🖥️ SAP ABAP Developer | Frontend Developer | Tech Enthusiast</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Welcome+to+my+Shinobi+World!;Building+Digital+Experiences;Learning+New+Technologies;Turning+Ideas+Into+Reality" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=orange&style=for-the-badge" />
+
+</div>
+
+---
+
+## 🍥 MY NINJA WAY
+
+<table>
 <tr>
-<td align="center">
+<td width="45%">
+<img src="./assets/anime-character.png" width="100%" alt="Anime Character"/>
+</td>
+<td width="55%">
 
-<img src="https://img.shields.io/badge/DEVELOPER%20ID-SAP--2026-7C3AED?style=for-the-badge&labelColor=0F172A"/>
+### Believe it — then build it!
 
-<br/><br/>
+- 👋 Hi, I'm **Navraj Kumar Yadav**.
+- 🎓 Computer Engineering Graduate.
+- 💻 Interested in SAP ABAP and Frontend Development.
+- 🚀 Building practical projects and exploring new technologies.
+- 🌱 Learning modern web development and enterprise solutions.
+- 🎯 My goal is to become a skilled Software Developer.
 
-<img src="https://img.shields.io/badge/NAME-NAVRAJ%20KUMAR%20YADAV-FFFFFF?style=for-the-badge&labelColor=1E293B"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ROLE-SAP%20ABAP%20DEVELOPER-38BDF8?style=for-the-badge&labelColor=0F172A"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SPECIALIZATION-ABAP%20ON%20HANA-818CF8?style=for-the-badge&labelColor=0F172A"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-22C55E?style=for-the-badge&labelColor=0F172A"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/IDENTITY-TECH%20ENTHUSIAST-06B6D4?style=for-the-badge&labelColor=0F172A"/>
+> "Great things are built one line of code at a time."
 
 </td>
 </tr>
 </table>
 
+---
+
+## ⚔️ JUTSU ARSENAL — TECH STACK
+
+### Frontend Techniques
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=SAP+ABAP+Developer;ABAP+on+HANA+Learner;Future+SAP+Consultant;Backend+Development+Enthusiast&center=true&width=600&height=50&font=Fira+Code&color=38BDF8&size=22&vCenter=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
+</p>
+
+### Backend & Database Techniques
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,mysql,postgres,firebase" />
+</p>
+
+### Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+### Enterprise Technologies
+
+<p align="center">
+<img src="https://img.shields.io/badge/SAP-ABAP-0FA6D6?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP-S%2F4HANA-0FA6D6?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/CDS-Views-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OData-Services-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- RECRUITER SUMMARY -->
-<h2 align="center">👨‍💻 PROFESSIONAL PROFILE</h2>
+## 🥷 MISSION DASHBOARD
 
-<p align="center">
-  <b>Building Efficient Enterprise Solutions with SAP ABAP</b>
-</p>
+<div align="center">
 
-<p align="center">
-  SAP ABAP Developer (Fresher) with hands-on experience in
-  <b>ALV Reports, Data Processing, and Database Design.</b>
-  Passionate about developing enterprise applications and
-  optimizing business processes through SAP technologies.
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<p align="center">
-  🎯 Seeking SAP ABAP Internship / Entry-Level Opportunities<br/>
-  🚀 Learning ABAP on HANA, CDS Views, and SAP Fiori<br/>
-  💡 Interested in enterprise software and backend development
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<!-- ABOUT ME -->
-<h2>🚀 ABOUT ME</h2>
-
-```yaml
-Name: Navraj Kumar Yadav
-Role: SAP ABAP Developer
-Experience: Fresher
-Core Skills:
-  - SAP ABAP
-  - ALV Reports
-  - SQL
-  - Database Design
-Currently Learning:
-  - ABAP on HANA
-  - CDS Views
-  - SAP Fiori
-Career Goal: SAP ABAP Consultant
-Availability: Open to Internship and Entry-Level Roles
-````
-
----
-
-<!-- SKILLS -->
-
-<h2 align="center">🛠️ TECHNICAL SKILLS</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SAP-ABAP-0FA3E0?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ABAP%20on%20HANA-1E293B?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CDS%20Views-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SAP%20Fiori-0EA5E9?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database%20Design-334155?style=for-the-badge"/>
-</p>
-
----
-
-<!-- FEATURED PROJECT -->
-
-<h2 align="center">📂 FEATURED PROJECT</h2>
+## 🌟 S-RANK MISSIONS — FEATURED PROJECTS
 
 <table width="100%">
 <tr>
-<td>
-
-<h3 align="center">📦 Inventory Management System (ALV)</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PROJECT-SAP%20ABAP-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TYPE-ENTERPRISE%20APPLICATION-7C3AED?style=for-the-badge"/>
-</p>
-
-<b>Project Overview:</b>
-
-An SAP ABAP-based inventory management solution designed to monitor stock levels, generate interactive reports, and highlight low-stock items.
-
-<b>Key Features:</b>
-
-* 📊 Interactive ALV Reports
-* 📦 Stock Monitoring Dashboard
-* 🎨 Dynamic Color Indicators
-* 📧 Low-Stock Email Alerts
-* 🗃️ Structured Data Processing
-
-<p align="center">
-  <a href="https://your-demo-link.com">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/yourusername/project-link">
-    <img src="https://img.shields.io/badge/VIEW%20SOURCE-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-</td>
+<th>Mission</th>
+<th>Project Details</th>
+<th>Jutsu Used</th>
 </tr>
+
+<tr>
+<td><b>🎵 Music Recommendation System</b></td>
+<td>
+Face Expression Based Music Recommendation System using Deep Learning.
+<br/><br/>
+Detects facial emotions and recommends music accordingly.
+</td>
+<td>Python, Flask, TensorFlow, OpenCV, Deep Learning</td>
+</tr>
+
+<tr>
+<td><b>📦 Inventory Management System</b></td>
+<td>
+An SAP ABAP-based inventory management solution to monitor stock levels, generate reports and manage inventory operations.
+</td>
+<td>SAP ABAP, SAP S/4HANA, SQL</td>
+</tr>
+
+<tr>
+<td><b>♻️ Smart Waste Segregation</b></td>
+<td>
+Garbage classification system using Convolutional Neural Networks.
+</td>
+<td>Python, CNN, TensorFlow, Keras</td>
+</tr>
+
+<tr>
+<td><b>💻 Personal Portfolio</b></td>
+<td>
+A responsive developer portfolio showcasing projects, skills and achievements.
+</td>
+<td>HTML, CSS, JavaScript, React</td>
+</tr>
+
 </table>
 
 ---
 
-<!-- OTHER PROJECTS -->
+## 📜 CAREER JOURNEY
 
-<h2>🧩 OTHER PROJECTS</h2>
-
-| Project                | Description                             |
-| ---------------------- | --------------------------------------- |
-| 📊 SAP Reports         | Data Processing and Interactive Reports |
-| 🗃️ ER Diagram Designs | Database Modeling and DBMS Projects     |
-| 💻 SQL Projects        | Database Queries and Data Management    |
-
----
-
-<!-- GITHUB STATS -->
-
-<h2 align="center">📈 GITHUB ANALYTICS</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=818CF8&text_color=FFFFFF" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0F172A&ring=7C3AED&fire=38BDF8&currStreakLabel=38BDF8" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=FFFFFF"/>
-</p>
+| Level | Achievement |
+|---|---|
+| 🎓 Education | B.Tech in Computer Engineering |
+| 💼 Experience | Social Media Executive Intern – PCU |
+| 🏅 Certification | SAP ABAP S/4HANA Certified Student |
+| 📊 Learning | Data Analytics, Power BI and Python |
+| 🚀 Goal | Software Development & SAP Consulting |
 
 ---
 
-<!-- KEY HIGHLIGHTS -->
+## 🏆 ACHIEVEMENTS & CONTRIBUTIONS
 
-<h2>🏆 KEY HIGHLIGHTS</h2>
+<div align="center">
 
-* 🚀 Developed an SAP Inventory Management ALV project.
-* 📊 Experience with interactive reports and data processing.
-* 🧩 Knowledge of DBMS and ER diagram design.
-* ⚡ Strong interest in enterprise software development.
-* 🎯 Focused on building a career as an SAP ABAP Consultant.
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 
----
+<br/><br/>
 
-<!-- CAREER STATUS -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
 
-<h2 align="center">💼 CAREER STATUS</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-</p>
-
-<p align="center">
-  <b>SAP ABAP Internship | SAP ABAP Fresher | Junior SAP Developer</b>
-</p>
-
-<p align="center">
-  🌍 Open to Remote and Onsite Opportunities
-</p>
+</div>
 
 ---
 
-<!-- CONTACT -->
+## 🤝 CONNECT WITH ME
 
-<h2 align="center">📬 CONNECT WITH ME</h2>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/navraj-kumar-yadav-960600236/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
 
-<!-- FOOTER -->
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=120&section=footer"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <b>💡 Building Efficient SAP Reports | Optimizing Data | Solving Real-World Problems</b>
-</p>
+### 🍥 THANKS FOR VISITING MY SHINOBI WORLD!
 
-<p align="center">
-  <i>"Turning data into solutions, one line of ABAP at a time."</i>
-</p>
-```
+<img src="./assets/anime-footer.gif" width="70%" alt="Anime Footer"/>
 
-### ⚙️ Before publishing
+**"I don't give up. That's my ninja way!"**
 
-Replace these placeholders with your actual details:
-
-1. `yourusername` → Your GitHub username.
-2. `your-demo-link.com` → Your actual project demo link.
-3. `yourusername/project-link` → Your actual GitHub repository.
-4. `your-email@example.com` → Your professional email address.
-
-**Design tip:** Add your profile photo to the ID card section to make it look more like a real developer identity card.
+</div>
